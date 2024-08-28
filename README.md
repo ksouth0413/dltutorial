@@ -1,7 +1,7 @@
 # 딥러닝 튜터리얼
 |update-date|file|data|model|remarks|reference|language|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|2323|[pytorch_basic.ipynb]()|y = x + 3*N(0,1) & <br> FashionMNIST|linear모델 y = xw+b & 간단한 cnn모델|torchvision.datasets에서 데이터가져옴|[Youtube](https://youtu.be/BnV0m4jOb6g)|pytorch|
+|2323|[pytorch_basic.ipynb]()|<ul><li>y = x + 3*N(0,1)</li><li>FashionMNIST</li></ul> & <br> |linear모델 y = xw+b & 간단한 cnn모델|torchvision.datasets에서 데이터가져옴|[Youtube](https://youtu.be/BnV0m4jOb6g)|pytorch|
 
 | 기본값            | 왼쪽 정렬      | 가운데 정렬 | 오른쪽 정렬 |
 |-------------------|:---------------|:-----------:|------------:|
@@ -13,5 +13,5 @@
 
 | 기본값  | 항목들                    |
 |---------|---------------------------|
-| 항목 A  | <ul><li>항목 1</li><li>항목 2</li><li>항목 3</li></ul> |
+| 항목 A  |  |
 | 항목 B  | <ul><li>항목 4</li><li>항목 5</li><li>항목 6</li></ul> |
