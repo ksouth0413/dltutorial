@@ -6,7 +6,7 @@
 > Original Source [Official Site](https://youtube.com/playlist?list=PL7ZVZgsnLwEEIC4-KQIchiPda_EjxX61r&si=_j5ENGvInnXsA7Ik)
 
 This projects covers Pytorch basic & CNN & RNN.<br>
-&#9654;[see details]()
+&#9654; [see details]()
 
 ## 2. hanyoseob '딥러닝 할껀데, 실습만 합니다.'
 > [!NOTE]
