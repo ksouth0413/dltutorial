@@ -3,9 +3,21 @@
 ## 1. 이수안컴퓨터 파이토치 PyTorch
 > [!NOTE]
 > This project was modified based on code from the YouTube channel [이수안컴퓨터](https://www.youtube.com/c/이수안컴퓨터). Special thanks to the original creator for their valuable content. <br>
-> Please visit his [Official Site](https://youtube.com/playlist?list=PL7ZVZgsnLwEEIC4-KQIchiPda_EjxX61r&si=_j5ENGvInnXsA7Ik)
+> Original Source [Official Site](https://youtube.com/playlist?list=PL7ZVZgsnLwEEIC4-KQIchiPda_EjxX61r&si=_j5ENGvInnXsA7Ik)
 
 
+## 2. 프로젝트 개요
+- **기간:** 2023.02.14 ~ 2023.03.09
+- **노트북 파일:** [pytorch_basic.ipynb]()
+- **사용 데이터셋:**
+  1. `y = x + 3 * N(0,1)` (간단한 데이터 생성)
+  2. FashionMNIST (의류 이미지 데이터셋)
+- **모델 구조:**
+  1. **Linear 모델:** `y = xw + b`
+  2. **간단한 CNN 모델:** 기본적인 합성곱 신경망 구조
+- **특이사항:** 
+  - `torchvision.datasets`을 사용하여 데이터셋을 다운로드 및 전처리
+ 
 
 기간 : 2023.02.14 ~ 2023.03.09
 [pytorch_basic.ipynb]() : 
