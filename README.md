@@ -2,9 +2,8 @@
 
 ## 1. 이수안컴퓨터 파이토치 PyTorch
 > [!NOTE]
-> These codes are modified from 이수안컴퓨터(youtube)<br>
-> Please visit his [Official Site]((https://youtube.com/playlist?list=PL7ZVZgsnLwEEIC4-KQIchiPda_EjxX61r&si=_j5ENGvInnXsA7Ik))(https://nasa.github.io/openmct/getting-started/)
-> 
+> This project was modified based on code from the YouTube channel [이수안컴퓨터](https://www.youtube.com/c/이수안컴퓨터). Special thanks to the original creator for their valuable content. <br>
+> Please visit his [Official Site](https://youtube.com/playlist?list=PL7ZVZgsnLwEEIC4-KQIchiPda_EjxX61r&si=_j5ENGvInnXsA7Ik)
 기간 : 2023.02.14 ~ 2023.03.09
 [pytorch_basic.ipynb]() : 
 데이터 : 1. y=x+3*N(0,1) 2. FashionMNIST
