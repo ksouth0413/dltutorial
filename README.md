@@ -1,4 +1,6 @@
 # 딥러닝 튜터리얼
+
+## 1. [이수안컴퓨터 파이토치 PyTorch](https://youtube.com/playlist?list=PL7ZVZgsnLwEEIC4-KQIchiPda_EjxX61r&si=_j5ENGvInnXsA7Ik)
 |update-date|file|data|model|remarks|reference|language|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |23.02.14|[pytorch_basic.ipynb]()|1. y=x+3*N(0,1)<br>2. FashionMNIST|1. linear모델(y=xw+b)<br>2. 간단한cnn모델|torchvision.datasets을통해데이터다운|[이수안컴퓨터](https://youtu.be/C1P7PaIeKvU?list=PL7ZVZgsnLwEEIC4-KQIchiPda_EjxX61r)|pytorch|
