@@ -1,5 +1,5 @@
 # 딥러닝 튜터리얼
 |update-date|file|data|model|remarks|reference|language|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|2323|pytorch_basic.ipynb|Linear Regression & SVM|[Github](https://github.com/DataScience-Lab-Yonsei/2023-Spring-RegularSession/tree/main/%5B0131%5D_LinearRegression_and_SVM/lecture)|[Youtube](https://youtu.be/2n0-HaP1ASw)|[Youtube](https://youtu.be/BnV0m4jOb6g)|pytorch|
+|2323|[pytorch_basic.ipynb]()|y = x + 3*N(0,1) & FashionMNIST|linear모델 y = xw+b & 간단한 cnn모델|torchvision.datasets에서 데이터가져옴|[Youtube](https://youtu.be/BnV0m4jOb6g)|pytorch|
 
