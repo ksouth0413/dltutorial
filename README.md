@@ -1,6 +1,6 @@
 # 딥러닝 튜터리얼
 
-## [1. 이수안컴퓨터 파이토치 PyTorch]
+## 1. 이수안컴퓨터 파이토치 PyTorch
 > [!NOTE]
 > These codes are modified from 이수안컴퓨터(youtube)<br>
 > Please visit his [Official Site]((https://youtube.com/playlist?list=PL7ZVZgsnLwEEIC4-KQIchiPda_EjxX61r&si=_j5ENGvInnXsA7Ik))(https://nasa.github.io/openmct/getting-started/)
