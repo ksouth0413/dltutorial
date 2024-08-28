@@ -10,7 +10,9 @@
   2. **간단한 CNN 모델:** 기본적인 합성곱 신경망 구조 (분류)
 - **특이사항:** 
   - `torchvision.datasets`을 사용하여 데이터셋을 다운로드 및 전처리
- 
+
+---
+
 ### 2.1. CNN basic 1
 - **노트북 파일:** [cnn_basic(1).ipynb](https://github.com/ksouth0413/dltutorial/blob/main/%EC%9D%B4%EC%88%98%EC%95%88%EC%BB%B4%ED%93%A8%ED%84%B0%20'%ED%8C%8C%EC%9D%B4%ED%86%A0%EC%B9%98%20PyTorch'/cnn_basic(1).ipynb)
 - **사용 데이터셋:** FashionMNIST (흑백 이미지 데이터셋)
@@ -25,6 +27,8 @@
 - **모델 구조:** 간단한 CNN 모델
 - **특이사항:** CNN 내부 layer를 어떻게 바꿔야 성능이 좋을지 고민, 향후 다른 CNN모델의 시작점(UNet,VGGNet,ResNet)
 
+---
+
 ### 3.1. CNN advanced 1
 - **노트북 파일:** [cnn_advanced(1).ipynb](https://github.com/ksouth0413/dltutorial/blob/main/%EC%9D%B4%EC%88%98%EC%95%88%EC%BB%B4%ED%93%A8%ED%84%B0%20'%ED%8C%8C%EC%9D%B4%ED%86%A0%EC%B9%98%20PyTorch'/cnn_advanced(1).ipynb)
 - **사용 데이터셋:** tire.zip, ants.zip, bees.zip
@@ -38,7 +42,9 @@
   - 상세 정보 없음
 - **특이사항:** 
   - 추가 정보 없음
- 
+
+---
+
 ### 4. RNN
 - **노트북 파일:** [cnn_advanced(2).ipynb](https://github.com/ksouth0413/dltutorial/blob/main/%EC%9D%B4%EC%88%98%EC%95%88%EC%BB%B4%ED%93%A8%ED%84%B0%20'%ED%8C%8C%EC%9D%B4%ED%86%A0%EC%B9%98%20PyTorch'/cnn_advanced(2).ipynb)
 - **사용 데이터셋:** animals10.zip, soccer.zip
