@@ -1,6 +1,9 @@
 # 딥러닝 튜터리얼
 
 ## [1. 이수안컴퓨터 파이토치 PyTorch](https://youtube.com/playlist?list=PL7ZVZgsnLwEEIC4-KQIchiPda_EjxX61r&si=_j5ENGvInnXsA7Ik)
+> [!NOTE]
+> Please visit our [Official Site](https://nasa.github.io/openmct/) and [Getting Started Guide](https://nasa.github.io/openmct/getting-started/)
+> 
 기간 : 2023.02.14 ~ 2023.03.09
 [pytorch_basic.ipynb]() : 
 데이터 : 1. y=x+3*N(0,1) 2. FashionMNIST
