@@ -1,4 +1,4 @@
-> [!Intro]
+> [!Important]
 > 기간: 2023.02.14 ~ 2023.03.09 <br>
 > serveral codes includes according [video](https://github.com/DataScience-Lab-Yonsei/2023-Spring-RegularSession)
 
