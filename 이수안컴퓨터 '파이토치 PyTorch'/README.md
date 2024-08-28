@@ -1,6 +1,4 @@
-기간:** 2023.02.14 ~ 2023.03.09
-
----
+기간: 2023.02.14 ~ 2023.03.09
 
 ## 1. Pytorch basic
 - **노트북 파일:** [pytorch_basic.ipynb](https://github.com/ksouth0413/dltutorial/blob/main/%EC%9D%B4%EC%88%98%EC%95%88%EC%BB%B4%ED%93%A8%ED%84%B0%20'%ED%8C%8C%EC%9D%B4%ED%86%A0%EC%B9%98%20PyTorch'/pytorch_basic.ipynb)
@@ -38,6 +36,7 @@
 - **사용 데이터셋:** tire.zip, ants.zip, bees.zip
 - **모델 구조:** 전이학습 모델 (ResNet18)
 - **특이사항:**
+  - 전이학습을 다룸
   - PIL 라이브러리와 data augmentation으로 데이터 전처리를 다룸
   - Pytorch에서 제공하지 않는 Dataset을 사용 (ImageFolder, Custom Dataset Class 활용)
 
