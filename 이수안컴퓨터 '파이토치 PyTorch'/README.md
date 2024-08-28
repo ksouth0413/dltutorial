@@ -1,6 +1,6 @@
 > [!Important]
 > 기간: 2023.02.14 ~ 2023.03.09 <br>
-> these codes are presented in DatascienceLab <br>
+> these codes are presented in DatascienceLab the club of... <br>
 > serveral codes includes according [video](https://github.com/DataScience-Lab-Yonsei/2023-Spring-RegularSession)
 
 ## 1. Pytorch basic
