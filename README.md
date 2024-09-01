@@ -1,6 +1,6 @@
 # 딥러닝 튜터리얼
 
-## 1. PyTorch KR
+## 1.PyTorch KR
 > [!NOTE]
 > This project was modified based on code from the YouTube channel [이수안컴퓨터](https://www.youtube.com/c/이수안컴퓨터). Special thanks to the original creator for their valuable content. <br>
 > However, the Original Source is *파이토치 한국 사용자 모임* [Official Site](https://tutorials.pytorch.kr/)
