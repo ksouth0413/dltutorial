@@ -6,7 +6,7 @@
 > However, the Original Source is *파이토치 한국 사용자 모임* [Official Site](https://tutorials.pytorch.kr/)
 
 This projects covers `Pytorch basic & CNN & RNN.`<br>
-&#9654; [see details](https://github.com/ksouth0413/dltutorial/blob/main/%EC%9D%B4%EC%88%98%EC%95%88%EC%BB%B4%ED%93%A8%ED%84%B0%20'%ED%8C%8C%EC%9D%B4%ED%86%A0%EC%B9%98%20PyTorch'/README.md)
+&#9654; [see details](https://github.com/ksouth0413/dltutorial/blob/main/PyTorch%20KR/README.md)
 
 ## 2. hanyoseob '딥러닝 할껀데, 실습만 합니다.'
 > [!NOTE]
